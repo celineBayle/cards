@@ -1,3 +1,3 @@
 # cards
-animated card
+animated cards
 from Traversy Media 's course
